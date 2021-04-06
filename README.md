@@ -2,11 +2,11 @@
 
 [AWSLambdaLayers.com](https://www.awslambdalayers.com/) develop AWS Lambdas and layers for Machine Learning.
 
-* The process of building, optimizing, and maintaining a Lambda layer is hard and painful, especially for Machine Learning with Python. It could take between a few days and a couple of weeks for a well-experienced geek.
+* Save time and avoid the pain. The process of building, optimizing, and maintaining a Lambda layer is hard and painful, especially for Machine Learning with Python. It could take between a few days and a couple of weeks for a well-experienced geek.
 
-* Our layers have been optimized over the years and extensively tested through thousands of deployments.
+* Benefit from our experience. Our layers have been optimized over the years and extensively tested through thousands of deployments.
 
-* When it comes to a Lambda layer, every bit counts. Our layers are very small what allows more space for your application.
+* Small size. When it comes to a Lambda layer, every bit counts. Our layers are very small what allows more space for your application.
 
 * Keep up with the latest versions. We release new layers with the latest versions regularly.
 
