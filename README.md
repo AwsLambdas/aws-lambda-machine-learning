@@ -10,10 +10,9 @@
 
 * Keep up with the latest versions. We release new layers with the latest versions regularly.
 
-# Ready-to-use Lambda demos
+# Ready-to-use AWS Lambda demos
 
 ## AWS Lambda with Numpy and SciPy
-
 NumPy and SciPy are popular scientific python libraries extensively used for Machine learning.
 
 Check our tutorial [AWS Lambda with Numpy](https://github.com/AwsLambdaLayers/aws-lambda-numpy)
@@ -33,7 +32,10 @@ XGBoost is an optimized gradient boosting library designed to be highly efficien
 
 Check our tutorial [AWS Lambda with XGBoost](https://github.com/AwsLambdaLayers/aws-lambda-xgboost)
 
-# Our AWS Lambda layers
+# Ready-to-deploy AWS Lambda layers
+The process of building, optimizing, and maintaining a Lambda layer is hard and painful, especially for Machine Learning with Python. It could take between a few days and a couple of weeks for a well-experienced geek.
+
+Thanks to our optimized layers, you can finally unlock the simplicity and cost-efficiency of AWS Lambdas.
 
 ## AWS Lambda layer for Numpy and SciPy (Free)
 This is an optimized AWS Lambda layer that includes Numpy 1.20.1 and Scipy 1.6.1 for Python 3.8 runtime.
