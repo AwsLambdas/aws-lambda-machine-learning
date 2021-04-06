@@ -32,3 +32,26 @@ Check our tutorial [AWS Lambda with Scikit-learn](https://github.com/AwsLambdaLa
 XGBoost is an optimized gradient boosting library designed to be highly efficient, flexible and portable. It implements machine learning algorithms under the Gradient Boosting framework. XGBoost provides a parallel tree boosting (also known as GBDT, GBM) that solve many data science problems in a fast and accurate way.
 
 Check our tutorial [AWS Lambda with XGBoost](https://github.com/AwsLambdaLayers/aws-lambda-xgboost)
+
+# Our AWS Lambda layers
+
+## AWS Lambda layer for Numpy and SciPy (Free)
+This is an optimized AWS Lambda layer that includes Numpy 1.20.1 and Scipy 1.6.1 for Python 3.8 runtime.
+
+[Click here to download or deploy for free](https://www.awslambdalayers.com/layers/1/aws-lambda-numpy-scipy-python38-layer/free)
+
+## AWS Lambda layer for Pandas
+This is an optimized AWS Lambda layer that includes Pandas 1.2.2, Numpy 1.20.1 and Scipy 1.6.1 for Python 3.8 runtime.
+
+[Click here to download or deploy for free](https://www.awslambdalayers.com/layers/2/aws-lambda-pandas-numpy-scipy-python38-layer)
+
+
+## AWS Lambda layer for Scikit-learn
+This is an optimized AWS Lambda layer that includes Scikit-Learn 0.24.1, Pandas 1.2.2, Numpy 1.20.1 and SciPy 1.6.1 for Python 3.8 runtime.
+
+[Click here to download or deploy for free](https://www.awslambdalayers.com/layers/3/aws-lambda-scikit-learn-numpy-scipy-python38-layer)
+
+## AWS Lambda layer for Scikit-learn and XGBoost
+This is an optimized AWS Lambda layer that includes Scikit-learn 0.24.1, XGBoost 1.3.3, Pandas 1.2.2, Numpy 1.20.1 and SciPy 1.6.1 for Python 3.8 runtime. This layer allow you to have a fully operational machine learning environment within an AWS Lambda.
+
+[Click here to download or deploy for free](https://www.awslambdalayers.com/layers/4/aws-lambda-scikit-learn-xgboost-numpy-scipy-python38-layer)
