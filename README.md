@@ -14,16 +14,16 @@ By using our Machine learning layers and examples you may:
 
 # Ready-to-use AWS Lambda examples with layers
 
-[Tutorial: "AWS Lambda with Numpy and SciPy"](https://github.com/AwsLambdaLayers/aws-lambda-numpy)   
+[Tutorial: "AWS Lambda with Numpy and SciPy"](https://github.com/AwsLambdas/aws-lambda-numpy)   
 NumPy and SciPy are popular scientific python libraries extensively used for Machine learning.
 
-[Tutorial: "AWS Lambda with Pandas"](https://github.com/AwsLambdaLayers/aws-lambda-pandas)   
+[Tutorial: "AWS Lambda with Pandas"](https://github.com/AwsLambdas/aws-lambda-pandas)   
 Pandas is a fast, powerful, flexible and easy to use data analysis and manipulation tool, that together with NumPy and SciPy are extensively used for Machine learning.
 
-[Tutorial: "AWS Lambda with Scikit-learn and Pandas"](https://github.com/AwsLambdaLayers/aws-lambda-scikit-learn)  
+[Tutorial: "AWS Lambda with Scikit-learn and Pandas"](https://github.com/AwsLambdas/aws-lambda-scikit-learn)  
   Scikit-learn is a machine learning library that supports supervised and unsupervised learning. It also provides various tools for model fitting, data preprocessing, model selection and evaluation, and many other utilities.
 
-[Tutorial: "AWS Lambda with XGBoost, Scikit-learn and Pandas"](https://github.com/AwsLambdaLayers/aws-lambda-xgboost)   
+[Tutorial: "AWS Lambda with XGBoost, Scikit-learn and Pandas"](https://github.com/AwsLambdas/aws-lambda-xgboost)   
 XGBoost is an optimized gradient boosting library designed to be highly efficient, flexible and portable. It implements machine learning algorithms under the Gradient Boosting framework. XGBoost provides a parallel tree boosting (also known as GBDT, GBM) that solve many data science problems in a fast and accurate way.
 
 # Ready-to-use Machine learning layers
