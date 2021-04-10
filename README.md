@@ -1,6 +1,10 @@
-# AWS Lambdas for Machine Learning
+# AWS Lambdas and layers for Machine Learning
 
-[AWSLambdaLayers.com](https://www.awslambdalayers.com/) develop AWS Lambdas and layers for Machine Learning.
+[AWSLambdas.com](https://www.awslambdas.com/) develop AWS Lambdas and layers for Machine Learning.
+
+The simplicity and cost-efficiency of Lambdas make it worthwhile to consider for models deployment and real-time inferencing. A Lambda function could be just a few lines of code that can handle millions of requests without the need of investing time and effort in building servers and high availability infrastructures.
+
+By using our Machine learning layers you can benefits by:
 
 * Save time and avoid the pain. The process of building, optimizing, and maintaining a Lambda layer is hard and painful, especially for Machine Learning with Python. It could take between a few days and a couple of weeks for a well-experienced geek.
 
